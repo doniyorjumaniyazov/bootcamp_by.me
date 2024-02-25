@@ -1,0 +1,15 @@
+C:\Users\utm\Desktop\Буткемп_програмирование\programmist\obj\Debug\net8.0\programmist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utm\Desktop\Буткемп_програмирование\programmist\obj\Debug\net8.0\programmist.AssemblyInfoInputs.cache
+C:\Users\utm\Desktop\Буткемп_програмирование\programmist\obj\Debug\net8.0\programmist.AssemblyInfo.cs
+C:\Users\utm\Desktop\Буткемп_програмирование\programmist\obj\Debug\net8.0\programmist.csproj.CoreCompileInputs.cache
+C:\Users\utm\Desktop\Буткемп_програмирование\programmist\obj\Debug\net8.0\programmist.sourcelink.json
+C:\Users\utm\Desktop\Буткемп_програмирование\programmist\bin\Debug\net8.0\programmist.exe
+C:\Users\utm\Desktop\Буткемп_програмирование\programmist\bin\Debug\net8.0\programmist.deps.json
+C:\Users\utm\Desktop\Буткемп_програмирование\programmist\bin\Debug\net8.0\programmist.runtimeconfig.json
+C:\Users\utm\Desktop\Буткемп_програмирование\programmist\bin\Debug\net8.0\programmist.dll
+C:\Users\utm\Desktop\Буткемп_програмирование\programmist\bin\Debug\net8.0\programmist.pdb
+C:\Users\utm\Desktop\Буткемп_програмирование\programmist\obj\Debug\net8.0\programmist.dll
+C:\Users\utm\Desktop\Буткемп_програмирование\programmist\obj\Debug\net8.0\refint\programmist.dll
+C:\Users\utm\Desktop\Буткемп_програмирование\programmist\obj\Debug\net8.0\programmist.pdb
+C:\Users\utm\Desktop\Буткемп_програмирование\programmist\obj\Debug\net8.0\programmist.genruntimeconfig.cache
+C:\Users\utm\Desktop\Буткемп_програмирование\programmist\obj\Debug\net8.0\ref\programmist.dll
